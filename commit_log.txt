@@ -1,0 +1,1 @@
+- Commit 2 (C++ Parsing Engine): Write the high-performance C++ file parsing mechanism using memory mapping (mmap) to navigate the massive log files efficiently.
