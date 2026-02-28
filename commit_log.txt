@@ -1,1 +1,2 @@
 - Commit 2 (C++ Parsing Engine): Write the high-performance C++ file parsing mechanism using memory mapping (mmap) to navigate the massive log files efficiently.
+- Commit 3 (Heuristic & AI Evaluation): Implement the evaluation logic, combining regex-based parsing with a lightweight anomaly scoring mechanism.
